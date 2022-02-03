@@ -143,6 +143,7 @@
     "author": [
       "Alex Campbell (Chief)",
       "Alex Vanover",
+      "AyyyKayyy - Anthony Knight",
       "Betaflight",
       "BMSThomas",
       "ctzsnooze",
@@ -190,6 +191,7 @@
       "aggressive",
       "AlexFPV",
       "aux",
+      "AyyyKayyy",
       "bando",
       "bardwell",
       "basher",
@@ -198,6 +200,7 @@
       "blackbox",
       "BMI270",
       "BMSThomas",
+      "brushless",
       "camera",
       "camera_control",
       "cfv2",
@@ -357,6 +360,7 @@
       "vtx table",
       "vtxtable",
       "whoop",
+      "whooptopia",
       "world champion",
       "youtube"
     ]
@@ -1551,7 +1555,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/fpvian_basher_freestyle.txt",
-      "hash": "e11a86c61bcfe6ff08d9da43b07aa3c0763e2af2751684f9c40a26d7f53ed15a",
+      "hash": "03b21087600c46dec99c7c6f6c0dbba6a48011830a5b26e3a3d1c9ea220d4dde",
       "title": "Basher Freestyle 6S 5\" by FPVian",
       "firmware_version": [
         "4.3"
@@ -1568,6 +1572,7 @@
         "fpvian"
       ],
       "author": "FPVian",
+      "force_options_review": true,
       "priority": 1000000000000
     },
     {
@@ -1684,7 +1689,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "2d52fbbb8aeb22170459b74d5b788ed80bb5d9952f2e8009cb07b103117615d3",
+      "hash": "3dc7346f137921b25a16da6b0aa70f500f2c0059edbbb67644f9c79eb94bb9d3",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "4.3"
@@ -1705,7 +1710,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "4411b1554066234acca3b0b812ca1c84f290096dcffb38f485a5fc8c112ddec7",
+      "hash": "62d190dd6030d0f3779e67dcbd24bd9ffa3162bab2a24cc090d9bc6c15432a77",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "4.3"
@@ -1724,7 +1729,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "36335f28e15ea1335625e4abd6174335f38ad53b97ec8de618a1d569554be520",
+      "hash": "49fe93d94e826091b38c9260885e3958ec621bccb0e1cd313a7785e62b22b6e9",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "4.3"
@@ -1764,6 +1769,30 @@
         "tinyTrainer"
       ],
       "author": "sugarK",
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.3/tune/whoop_ayyykayyy.txt",
+      "hash": "18a0a21b675f4c2e4719bae8d448684e58b51981f657755fe4c2f95e7eaea2c7",
+      "title": "Whoop race tune by AyyyKayyy",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "whoop",
+        "65mm",
+        "1S",
+        "race",
+        "acro",
+        "tune",
+        "AyyyKayyy",
+        "meteor",
+        "whooptopia",
+        "brushless"
+      ],
+      "author": "AyyyKayyy - Anthony Knight",
       "priority": 1000000000000
     },
     {
