@@ -108,7 +108,7 @@ set motor_pwm_protocol = DSHOT300
 set pid_process_denom = 2
 #$ OPTION END
 
-#$ OPTION BEGIN (CHECKED): F7
+#$ OPTION BEGIN (UNCHECKED): F7
 set motor_pwm_protocol = DSHOT600
 set pid_process_denom = 1 
 #$ OPTION END
