@@ -144,8 +144,7 @@
       "Betaflight",
       "ctzsnooze",
       "Hofa",
-      "Jye Smith",
-      "sugarK"
+      "Jye Smith"
     ],
     "keywords": [
       "150Hz",
@@ -749,7 +748,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/vtx.txt",
-      "hash": "004ff357b02730c2c9d69a0485d747c66bb3406277a917d9456edbeecd924831",
+      "hash": "8106a7fd57aa76bcbbcb14bf6b1018f380fd239abaaee69f7afe682efbf9ae5c",
       "title": "TBS Unify Pro HV 800mw / Rush Tank Mini",
       "firmware_version": [
         "4.2",
@@ -767,7 +766,7 @@
         "rush",
         "tank"
       ],
-      "author": "sugarK",
+      "author": "Hofa",
       "priority": 1000000
     }
   ]
