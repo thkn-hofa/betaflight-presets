@@ -6,6 +6,7 @@
 #$ KEYWORDS:  vtx, vtx table, tbs, unify pro, HV, SA 2.0, rush, tank
 #$ AUTHOR: Hofa
 #$ DESCRIPTION: VTX table for both the TBS Unify Pro HV 800mw and Rush Tank Mini
+#$ DESCRIPTION: Configures VTX to R1 (if checked)
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
 
 

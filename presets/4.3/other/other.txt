@@ -8,7 +8,6 @@
 #$ DESCRIPTION: Uncategorized settings:
 #$ DESCRIPTION: - Enables Telemetry
 #$ DESCRIPTION: - Configures Beeper (D-Shot and external)
-#$ DESCRIPTION: - Configures VTX to R1 (if checked)
 #$ DESCRIPTION: - Configures DSHOT version and PID loop frequency
 #$ DESCRIPTION: - Configures minimum arm angle to 180
 #$ DESCRIPTION: - Configures battery values (non-HV)

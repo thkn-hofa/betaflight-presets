@@ -448,7 +448,7 @@
     },
     {
       "fullPath": "presets/4.3/other/other.txt",
-      "hash": "b0496f9a24e900f20072b0e50a8900d2f14425c0010e658d25d7b1fd35facafe",
+      "hash": "4344d1b4e268f8bfc456ceb5d6540088647313318e54a11bbe69b202939608d3",
       "title": "Hofa's other settings",
       "firmware_version": [
         "4.2",
@@ -752,7 +752,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/vtx.txt",
-      "hash": "7616b1c14f773d04ffb4615d806bd8ce8635b84b25203bc7215b4d2ebaa2d775",
+      "hash": "f2a711a7d6e72ba0a87deb4e3046a63647b0c348cbffae724a2c26fe2c83748c",
       "title": "TBS Unify Pro HV 800mw / Rush Tank Mini",
       "firmware_version": [
         "4.2",
