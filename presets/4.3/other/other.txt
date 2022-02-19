@@ -29,6 +29,12 @@ set vbat_warning_cell_voltage = 345
 
 
 
+#$ OPTION BEGIN (CHECKED): Enable Bidirection D-Shot
+set dshot_bidir = ON
+#$ OPTION END
+
+
+
 #$ OPTION_GROUP BEGIN: Configure Beeper (Select 1!)
 
 #$ OPTION BEGIN (UNCHECKED): No External Beeper
@@ -96,13 +102,7 @@ beacon -RX_LOST
 
 
 
-#$ OPTION BEGIN (CHECKED): Enable Bidirection D-Shot
-set dshot_bidir = ON
-#$ OPTION END
-
-
-
-#$ OPTION_GROUP BEGIN: Processor presets (loop freq + DSHOT) (Select 1!)
+#$ OPTION_GROUP BEGIN: Processor presets (Select 1!)
 #$ OPTION BEGIN (CHECKED): F4
 set motor_pwm_protocol = DSHOT300
 set pid_process_denom = 2
