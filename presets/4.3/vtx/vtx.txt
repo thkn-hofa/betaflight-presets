@@ -20,3 +20,11 @@ vtxtable band 5 RACEBAND R FACTORY 5658 5695 5732 5769 5806 5843 5880 5917
 vtxtable powerlevels 4
 vtxtable powervalues 0 1 2 3
 vtxtable powerlabels 25 200 500 800
+
+
+
+#$ OPTION BEGIN (CHECKED): VTX to R1
+set vtx_band = 5
+set vtx_channel = 1
+set vtx_freq = 5658
+#$ OPTION END

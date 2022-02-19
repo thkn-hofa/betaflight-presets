@@ -390,10 +390,11 @@
     },
     {
       "fullPath": "presets/4.3/modes/modes.txt",
-      "hash": "5e6962bff11f5eadb6d355632edf547b9c6bd962380b4d82a126d28a2e297221",
+      "hash": "711e846e1c6c85cbaaaf6236718efc73e30427a811095604369b6f56988e4a3d",
       "title": "Hofa's Modes, Switches and Adjustment settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.2"
       ],
       "category": "MODES",
       "status": "COMMUNITY",
@@ -431,10 +432,11 @@
     },
     {
       "fullPath": "presets/4.3/osd/osd.txt",
-      "hash": "1cb7fa221f754243969f98c345cb21e4c3862e50b9d41515b3ad64bd1e0cbaf2",
+      "hash": "e5687d8de182f73d6b663e9e4a942bb2a768d8022220d5bc28e196c97ed83028",
       "title": "Hofa's Personal OSD settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.2"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
@@ -446,10 +448,11 @@
     },
     {
       "fullPath": "presets/4.3/other/other.txt",
-      "hash": "ad48c9abe0d35988cc94533108109bdaf0219b8e308c4a0d143af86cf613e35a",
+      "hash": "f05d0648c730ccd7695849b2b9a4f2d21c487f9e900a32026a20a5c3e024fefb",
       "title": "Hofa's other settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.2"
       ],
       "category": "OTHER",
       "status": "COMMUNITY",
@@ -478,10 +481,11 @@
     },
     {
       "fullPath": "presets/4.3/rates/rates.txt",
-      "hash": "bf8c7cef981a5350b054f13f9f9c9de909f34c925403f309c2d53f9f0cb4d065",
+      "hash": "9897e83cf479037716f46e4134e5da674d34fcdec355f88feb9d359867af1547",
       "title": "Hofa rates",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.2"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
@@ -748,7 +752,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/vtx.txt",
-      "hash": "8106a7fd57aa76bcbbcb14bf6b1018f380fd239abaaee69f7afe682efbf9ae5c",
+      "hash": "7616b1c14f773d04ffb4615d806bd8ce8635b84b25203bc7215b4d2ebaa2d775",
       "title": "TBS Unify Pro HV 800mw / Rush Tank Mini",
       "firmware_version": [
         "4.2",

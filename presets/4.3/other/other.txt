@@ -1,5 +1,6 @@
 #$ TITLE: Hofa's other settings
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.2
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS:  telemetry
@@ -92,14 +93,6 @@ beacon -RX_LOST
 #$ OPTION END
 
 #$ OPTION_GROUP END
-
-
-
-#$ OPTION BEGIN (CHECKED): VTX to R1
-set vtx_band = 5
-set vtx_channel = 1
-set vtx_freq = 5658
-#$ OPTION END
 
 
 
