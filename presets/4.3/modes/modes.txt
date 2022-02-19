@@ -1,6 +1,6 @@
 #$ TITLE: Hofa's Modes, Switches and Adjustment settings
-#$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: mode, modes, adjustments, aux, switch, rxrange, VTX, map, channel, telemetry
