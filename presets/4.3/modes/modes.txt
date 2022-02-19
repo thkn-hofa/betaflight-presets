@@ -1,0 +1,83 @@
+#$ TITLE: Hofa's Modes, Switches and Adjustment settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: mode, modes, adjustments, aux, switch, rxrange, VTX, map, channel, telemetry
+#$ AUTHOR: Hofa
+#$ DESCRIPTION: Modes configuration
+#$ DESCRIPTION: AUX 1: ARM (HIGH)
+#$ DESCRIPTION: AUX 2: Flight mode ( Horizon (LOW) / Air (MIDDLE) / Acro (HIGH) )
+#$ DESCRIPTION: AUX 3: Beeper (MIDDLE) / Turtle mode (LOW)
+#$ DESCRIPTION:
+#$ DESCRIPTION: Sets low and high throttle threshold to 1010 and 2000
+#$ DESCRIPTION: Sets deadband to 1
+#$ DESCRIPTION:
+#$ DESCRIPTION: If checked: Sets RX range from 988 to 2011
+#$ DESCRIPTION:
+#$ DESCRIPTION: If checked: Sets VTX swtich for a VTX with 4 output power settings
+#$ DESCRIPTION:
+#$ DESCRIPTION: If checked: Sets channel map to TAER1234
+
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+
+# feature
+feature -AIRMODE
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 2 1 900 1300 0 0
+aux 2 13 2 1300 1700 0 0
+aux 3 28 1 1300 1700 0 0
+aux 4 35 2 1700 2100 0 0
+
+# master
+set deadband = 1
+set min_check = 1010
+set max_check = 2000
+
+
+#$ OPTION_GROUP BEGIN: Configure VTX switch (Select 1!)
+
+#$ OPTION BEGIN (UNCHECKED): AUX2
+# vtx
+vtx 0 1 0 0 1 900 1200
+vtx 1 1 0 0 2 1300 1700
+vtx 2 1 0 0 4 1800 2100
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): AUX3
+# vtx
+vtx 0 2 0 0 1 900 1200
+vtx 1 2 0 0 2 1300 1700
+vtx 2 2 0 0 4 1800 2100
+#$ OPTION END
+
+#$ OPTION BEGIN (CHECKED): AUX4
+# vtx
+vtx 0 3 0 0 1 900 1200
+vtx 1 3 0 0 2 1300 1700
+vtx 2 3 0 0 4 1800 2100
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): AUX5
+# vtx
+vtx 0 4 0 0 1 900 1200
+vtx 1 4 0 0 2 1300 1700
+vtx 2 4 0 0 4 1800 2100
+#$ OPTION END
+
+#$ OPTION_GROUP END
+
+#$ OPTION BEGIN (CHECKED): Configure RX range
+# rxrange
+rxrange 0 988 2011
+rxrange 1 988 2011
+rxrange 2 988 2011
+rxrange 3 988 2011
+#$ OPTION END
+
+
+#$ OPTION BEGIN (CHECKED): Channel MAP TAER1234
+# map
+map TAER1234
+#$ OPTION END

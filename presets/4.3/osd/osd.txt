@@ -1,0 +1,58 @@
+#$ TITLE: Hofa's Personal OSD settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: OSD
+#$ AUTHOR: Hofa
+#$ DESCRIPTION: Sets OSD values to my personal preferences
+
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_warn_visual_beeper = OFF
+set osd_warn_core_temp = OFF
+set osd_warn_rc_smoothing = OFF
+set osd_warn_launch_control = OFF
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_gps_rescue_disabled = OFF
+set osd_warn_link_quality = ON
+set osd_warn_rssi_dbm = ON
+set osd_rssi_alarm = 0
+set osd_rssi_dbm_alarm = -100
+set osd_cap_alarm = 0
+set osd_logo_on_arming = ON
+set osd_tim1 = 0
+set osd_tim2 = 1281
+set osd_vbat_pos = 2423
+set osd_rssi_pos = 52
+set osd_link_quality_pos = 14391
+set osd_rssi_dbm_pos = 14386
+set osd_tim_2_pos = 2433
+set osd_remaining_time_estimate_pos = 2402
+set osd_flymode_pos = 2137
+set osd_throttle_pos = 2212
+set osd_vtx_channel_pos = 2081
+set osd_crosshairs_pos = 237
+set osd_ah_pos = 110
+set osd_current_pos = 2440
+set osd_mah_drawn_pos = 2449
+set osd_craft_name_pos = 2092
+set osd_display_name_pos = 394
+set osd_pid_roll_pos = 353
+set osd_pid_pitch_pos = 34
+set osd_pidrate_profile_pos = 52
+set osd_warnings_pos = 14505
+set osd_avg_cell_voltage_pos = 14743
+set osd_battery_usage_pos = 49386
+set osd_flip_arrow_pos = 14574
+set osd_rate_profile_name_pos = 399
+set osd_pid_profile_name_pos = 392
+set osd_stat_max_spd = OFF
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_max_curr = OFF
+set osd_stat_bbox = OFF
+set osd_stat_bb_no = OFF
+set osd_stat_max_esc_rpm = ON
+set osd_stat_min_link_quality = ON
+set osd_stat_max_fft = ON
+set osd_stat_total_time = ON
