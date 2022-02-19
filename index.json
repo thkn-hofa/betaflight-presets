@@ -390,11 +390,11 @@
     },
     {
       "fullPath": "presets/4.3/modes/modes.txt",
-      "hash": "711e846e1c6c85cbaaaf6236718efc73e30427a811095604369b6f56988e4a3d",
+      "hash": "316c625da87d66f076ef2d79a8491e150cd985fbb3ddd43f21d5a8f89c6485ff",
       "title": "Hofa's Modes, Switches and Adjustment settings",
       "firmware_version": [
-        "4.3",
-        "4.2"
+        "4.2",
+        "4.3"
       ],
       "category": "MODES",
       "status": "COMMUNITY",
@@ -432,11 +432,11 @@
     },
     {
       "fullPath": "presets/4.3/osd/osd.txt",
-      "hash": "e5687d8de182f73d6b663e9e4a942bb2a768d8022220d5bc28e196c97ed83028",
+      "hash": "0850d866722a825d7822a996114f2ed6e95423f5d600a2e00cf1a0336084d05d",
       "title": "Hofa's Personal OSD settings",
       "firmware_version": [
-        "4.3",
-        "4.2"
+        "4.2",
+        "4.3"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
@@ -448,11 +448,11 @@
     },
     {
       "fullPath": "presets/4.3/other/other.txt",
-      "hash": "f05d0648c730ccd7695849b2b9a4f2d21c487f9e900a32026a20a5c3e024fefb",
+      "hash": "442aea9b2d5f5a8bcb8293d4e28dc7f93fa37a66c29cb58046251daa9fe445fc",
       "title": "Hofa's other settings",
       "firmware_version": [
-        "4.3",
-        "4.2"
+        "4.2",
+        "4.3"
       ],
       "category": "OTHER",
       "status": "COMMUNITY",
@@ -481,11 +481,11 @@
     },
     {
       "fullPath": "presets/4.3/rates/rates.txt",
-      "hash": "9897e83cf479037716f46e4134e5da674d34fcdec355f88feb9d359867af1547",
+      "hash": "d9a773d735827257559bef91690e88e81fc7ae7cd25f7935dddd2fc2dbab72fc",
       "title": "Hofa rates",
       "firmware_version": [
-        "4.3",
-        "4.2"
+        "4.2",
+        "4.3"
       ],
       "category": "RATES",
       "status": "COMMUNITY",
