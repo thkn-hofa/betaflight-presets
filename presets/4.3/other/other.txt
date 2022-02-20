@@ -36,7 +36,7 @@ set dshot_bidir = ON
 
 #$ OPTION_GROUP BEGIN: Configure Beeper (Select 1!)
 
-#$ OPTION BEGIN (UNCHECKED): No External Beeper
+#$ OPTION BEGIN (CHECKED): No External Beeper
 # beeper
 beeper -GYRO_CALIBRATED
 beeper -RX_LOST
