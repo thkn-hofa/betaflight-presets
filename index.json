@@ -448,8 +448,8 @@
     },
     {
       "fullPath": "presets/4.3/other/other.txt",
-      "hash": "d39c695eb15b780eafe28b8c15db61496cb57f39157cd70a60221b23100ea513",
-      "title": "Hofa's other settings",
+      "hash": "4c97e794a4ceeba29b6e74ef01529a9a15ea931f9dd15630862cf6635bceb28b",
+      "title": "Hofa's Other Settings",
       "firmware_version": [
         "4.2",
         "4.3"
@@ -481,8 +481,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/rates.txt",
-      "hash": "d9a773d735827257559bef91690e88e81fc7ae7cd25f7935dddd2fc2dbab72fc",
-      "title": "Hofa rates",
+      "hash": "236249eafd1eebfc6ff33cf9628c72309225119479b6d1effb7ac8e407348053",
+      "title": "Hofa's Rates",
       "firmware_version": [
         "4.2",
         "4.3"

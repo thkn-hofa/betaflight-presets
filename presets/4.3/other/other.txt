@@ -1,4 +1,4 @@
-#$ TITLE: Hofa's other settings
+#$ TITLE: Hofa's Other Settings
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OTHER
